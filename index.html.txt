@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Portfólio - Jorge Franciulli</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Jorge Franciulli</h1>
+    <p>Desenvolvedor Front-end</p>
+  </header>
+
+  <section class="about">
+    <h2>Sobre mim</h2>
+    <p>Tenho habilidades em HTML, CSS e conhecimentos básicos em Java e JavaScript. Estou sempre aprendendo e desenvolvendo novos projetos.</p>
+  </section>
+
+  <section class="projects">
+    <h2>Projetos</h2>
+    <ul>
+      <li>
+        <h3>Tela de Cadastro</h3>
+        <a href="./projetos/tela-de-cadastro/index.html">Ver Projeto</a>
+      </li>
+      <li>
+        <h3>Flashy Rash</h3>
+        <a href="https://replit.com/@jorgefranciulli/FlashyRashOop" target="_blank">Ver no Replit</a>
+      </li>
+    </ul>
+  </section>
+
+  <footer>
+    <p>© 2025 Jorge Franciulli</p>
+  </footer>
+</body>
+</html>
